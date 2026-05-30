@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi 👋
 
-<!--
-**mbb110/mbb110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm mbb110
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Monitoring Engineer
+- Working with Zabbix automation
+- Learning Python and GitHub
+- Interested in CI/CD and scripting
+
+## Current focus
+
+- Python automation
+- Monitoring & alerting
+- API integrations
